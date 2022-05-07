@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Baby!</h1>
 <h3 align="center">I am a person who is venturing into the internet and learning more and more about technology.</h3>
 
-- 🔭 I’m currently working on [RelogBots](https://dsc.gg/relogbots)
+- 🔭 I’m currently working on Self Upgrade
 
 - 🌱 I’m currently learning **Lua, JS, CSS, HTML**
 
-- 👯 I’m looking to collaborate on [SuricatoX's Corporation](https://discord.gg/tqHWCEZ)
+- 👯 I’m looking to collaborate on Tesla
 
-- 🤝 I’m looking for help with **Athena's Roleplay**
+- 🤝 I’m looking for help with **Maple City**
 
 - 💬 Ask me about **Optimization in FiveM**
 
-- 📫 How to reach me **atenaunderbelieveble@outlook.com.br**
+- 📫 How to reach me **babysxdev@hotmail.com**
 
 - ⚡ Fun fact **I think i am funny :)**
 
